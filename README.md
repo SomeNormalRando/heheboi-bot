@@ -1,4 +1,5 @@
 # heheboi bot
+When you first download this, run `npm install` in the directory
 ## Terminal scripts
 Execute these in a terminal
 (like cmd and powershell,
